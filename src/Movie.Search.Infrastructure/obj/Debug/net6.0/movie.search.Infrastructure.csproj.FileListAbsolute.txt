@@ -1,0 +1,15 @@
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.AssemblyInfo.cs
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\bin\Debug\net6.0\movie.search.Infrastructure.deps.json
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\bin\Debug\net6.0\movie.search.Infrastructure.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\bin\Debug\net6.0\movie.search.Infrastructure.pdb
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\bin\Debug\net6.0\movie.search.Core.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\bin\Debug\net6.0\movie.search.Core.pdb
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.csproj.CopyComplete
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\refint\movie.search.Infrastructure.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\movie.search.Infrastructure.pdb
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Infrastructure\obj\Debug\net6.0\ref\movie.search.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.csproj.AssemblyReference.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.AssemblyInfoInputs.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.AssemblyInfo.cs
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.csproj.CoreCompileInputs.cache
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\bin\Debug\net6.0\movie.search.Core.deps.json
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\bin\Debug\net6.0\movie.search.Core.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\bin\Debug\net6.0\movie.search.Core.pdb
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\refint\movie.search.Core.dll
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\movie.search.Core.pdb
+C:\Users\luz.parra\source\repos\movie.search\src\movie.search.Core\obj\Debug\net6.0\ref\movie.search.Core.dll
